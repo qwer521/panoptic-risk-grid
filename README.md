@@ -1,6 +1,6 @@
 # Panoptic Risk & Occupancy Grid
 
-![Pipeline](docs/pipeline.png)
+![Pipeline](docs/pipeline.svg)
 
 ## Introduction
 
