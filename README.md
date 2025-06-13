@@ -10,7 +10,7 @@ This repository implements a **camera-only perception pipeline** that performs:
 2. **Real-time Risk Coloring** of vehicles and pedestrians  
 3. **Bird’s-Eye Occupancy Grid Mapping** for downstream planning  
 
-We **collected and uploaded** a custom ETS2 dashcam dataset (3000+ clips) to Kaggle, covering normal driving, near-misses, and crash scenarios, each annotated with bird’s-eye occupancy grids.
+We **collected and uploaded** a custom ETS2 dashcam dataset (3000+ clips) to [Kaggle](https://www.kaggle.com/datasets/luluboy168/ets2-dashcam-dataset), covering normal driving, near-misses, and crash scenarios—and we developed the accompanying bird’s-eye labeling tool [BEV-Grid-Map-Labeling-Tool](https://github.com/Luluboy168/BEV-Grid-Map-Labeling-Tool) to annotate each clip with occupancy grids.
 
 ---
 
